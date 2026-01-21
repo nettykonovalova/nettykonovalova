@@ -25,6 +25,15 @@ From leading software project teams for major banks to designing life-critical *
 ---
 
 ## 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/nettykonovalova](https://www.linkedin.com/in/nettykonovalova)
-- **Portfolio:** [Portfolio](https://educated-saver-260.notion.site/Anastasiia-Konovalova-2ed2f04b555e8098a1bbf3358d34c029)
-- **Email:** nettykonovalova@gmail.com
+
+<a href="https://www.linkedin.com/in/nettykonovalova" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:nettykonovalova@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://educated-saver-260.notion.site/Anastasiia-Konovalova-2ed2f04b555e8098a1bbf3358d34c029" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-yellow?style=for-the-badge" alt="Portfolio">
+</a>
