@@ -10,7 +10,9 @@ I’ve spent the last 10 years figuring out how to make things work—for busine
 From leading software project teams for major banks to designing life-critical **Health Tech systems**, I have always focused on the "0-to-1" journey. Currently, I’m at **42 Porto**, diving deep into the technical architecture (C, C++, Python) to build the engines behind the interfaces I design.
 
 🎨 **Expertise:** Product Design (UX/UI), Health Tech Systems (EHR/RIS), Design Systems, and Product Strategy.
+
 🛠️ **Current Learning:** C, C ++, Python, Memory Management, and Data Structures at 42 Porto.
+
 🌍 **Perspective:** 4 countries, 4 languages (English, Ukrainian, Russian, Portuguese), and 10 years of cross-industry problem-solving.
 
 ---
