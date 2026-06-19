@@ -1,4 +1,4 @@
-## Hi, I'm Anasiasiia 👋
+## Hi, I'm Anastasiia 👋
 
 **`(Software Developer/Product Designer)`**
 
